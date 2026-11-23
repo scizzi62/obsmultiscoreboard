@@ -1,0 +1,40 @@
+Instructions for Mutli-Sport Scoreboard
+
+https://github.com/scizzi62/obsmultiscoreboard.git
+
+1. Unzip or copy files to a folder on your hard drive (ex. multisport scoreboard) depending on how you revieved the files
+
+2. Go to https://www.python.org/downloads/
+
+3. Look for text - Looking for Python with a different OS? Python for Windows, Linux/Unix, macOS, Android, iOS, other
+
+   Try to get the installer type file. It does everything by itself
+
+4. Click on Windows or Mac (I have not tested it on a Mac)
+
+5. Click the link "Latest Python install manager - Python install manager 26.4" or something like that
+
+6. Make sure you know the location of the download, then install python
+
+7. Find the folder where you placed the scoreboard files and run the start-scoreboard.bat file. It will open a black command prompt window and do    a quick file run >>>>IMPORTANT TO LEAVE THIS WINDOW OPEN WHEN USING THE SCOREBOARD
+
+8. Another window will open up with the controls for the scorebaord
+
+9. In OBS create a source inside of the scene that has the camera and audio, choose browser and label it scoreboard.
+
+10. DO NOT check the local file box. Look in the window that controls the scoreboard you will see obs url, use the copy obs url button and paste     it in url box
+
+11. Make sure to use 1920 for the width and 1080 for the height, do not do anything else in the settings, hit ok
+
+12. You should see the scoreboard on screen
+
+13. There are adjustments inside of the scoreboard controls for X and Y values to help position the scorboard, plus preset locations such as top,     bottom, left, right.
+
+14. There are scale sliders to make the graphics larger, you may have to refresh the source for it to take effect.
+
+15. Depending on the size of your computer screen you may be able to scale the scoreboard window to sit next to the obs window
+
+
+
+
+
